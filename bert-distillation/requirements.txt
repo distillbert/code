@@ -1,0 +1,7 @@
+easydict
+torchtext==0.3.1
+tqdm
+pytorch_pretrained_bert
+git+https://github.com/emnlp-blind/argconf
+nltk
+allennlp
